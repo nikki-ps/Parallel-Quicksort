@@ -1,4 +1,4 @@
-# cpsc479-project-2
+# CPSC479-Project-2
 Data Science Project
 
 ### GROUP MEMBERS:
